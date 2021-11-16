@@ -1,4 +1,4 @@
-### Hi there 👋 I 'm Victoor
+### Hi there 👋 I 'm Victor
 
 
 
