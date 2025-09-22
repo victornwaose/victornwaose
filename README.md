@@ -1,13 +1,20 @@
-# Hi there 👋, I'm Victor
+# Hi there 👋, I'm Victor  
 
-- 🌱 Currently learning **Node.js**  
-- 👯 Looking to collaborate on projects that **bring technological development to humanity**  
-- 💬 Ask me about **coding & frontend development**  
-- 📫 Reach me at: **nwaosevictor1234@gmail.com**  
+💡 A passionate **Frontend Developer** currently expanding into **Full-Stack Development**.  
+I enjoy building clean, user-friendly web apps and collaborating on projects that **make an impact on society**.  
 
 ---
 
-## 🧰 Toolbox
+## 🌟 What I Do
+- 🎨 Craft responsive & accessible **UI/UX** with **Vue.js, React, and TailwindCSS**  
+- ⚡ Build scalable applications with **Nuxt.js & Next.js**  
+- 📦 Write clean, maintainable code using **TypeScript**  
+- 🌱 Currently learning **Node.js & backend development**  
+- 🤝 Love working on **open-source** and **collaborative projects**  
+
+---
+
+## 🧰 Toolbox  
 
 <p align="left">
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -19,6 +26,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/>
@@ -26,7 +34,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=victornwaose&show_icons=true&theme=radical" alt="Victor's GitHub Stats" height="160"/>
@@ -35,8 +43,17 @@
 
 ---
 
-## 🚀 About Me
-I’m a passionate **frontend developer** who loves building user-friendly, scalable, and impactful applications.  
-Currently diving deeper into **Node.js & backend development** to become a **full-stack developer**.  
+
+
+
+
+## 🌍 Connect With Me  
+
+<p align="left">
+  <a href="mailto:nwaosevictor1234@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>  
 
 ---
+
+## ⚡ Fun Fact  
+I love solving **real-world problems with code** and believe that every line of code should bring us closer to making life easier 🚀  
