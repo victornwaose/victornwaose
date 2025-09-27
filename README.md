@@ -41,11 +41,11 @@ I enjoy building clean, user-friendly web apps and collaborating on projects tha
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victornwaose&layout=compact&hide=java,html,css&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=victornwaose&theme=radical&hide_border=true" alt="Victor's GitHub Streak"/>
+</p>
+
 ---
-
-
-
-
 
 ## 🌍 Connect With Me  
 
