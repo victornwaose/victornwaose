@@ -9,7 +9,7 @@ I enjoy building clean, user-friendly web apps and collaborating on projects tha
 - 🎨 Craft responsive & accessible **UI/UX** with **Vue.js, React, and TailwindCSS**  
 - ⚡ Build scalable applications with **Nuxt.js & Next.js**  
 - 📦 Write clean, maintainable code using **TypeScript**  
-- 🌱 Currently learning **Node.js & backend development**  
+- 🌱 Currently learning **Node.js & larvel backend development**  
 - 🤝 Love working on **open-source** and **collaborative projects**  
 
 ---
