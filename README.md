@@ -11,7 +11,7 @@ I enjoy building clean, user-friendly web apps and collaborating on projects tha
 - ⚡ Build scalable applications with **Nuxt.js & Next.js**  
 - 📦 Write clean, maintainable code using **TypeScript**  
 - 🌱 Currently learning **Node.js & larvel backend development**  
-- 🤝 Love working on **open-source** and **collaborative projects**  
+- 🤝 Love working on *open-source* and **collaborative projects**  
 
 ---
 
