@@ -54,7 +54,6 @@ I enjoy building clean, user-friendly web apps and collaborating on projects tha
   <a href="mailto:nwaosevictor1234@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>  
 
----
 
 ## ⚡ Fun Fact  
 I love solving **real-world problems with code** and believe that every line of code should bring us closer to making life easier 🚀  
