@@ -5,13 +5,13 @@
 
 <p align="left">
   <b>Frontend Developer</b> growing into Full-Stack •
-  Crafting user-first web apps from Asaba, Detla State , Nigeria 🇳🇬
+  Crafting user-first web apps from Asaba, Delta State, Nigeria 🇳🇬
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-1D9E75?style=flat-square"/>
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-6e40c9?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Location-Benin%20City%2C%20Nigeria-E34F26?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Location-Asaba%2C%20Delta%20State-E34F26?style=flat-square"/>
 </p>
 
 ---
@@ -26,7 +26,7 @@ I'm a frontend developer who obsesses over clean UI, smooth interactions, and ac
 - 🌱 Currently learning **Node.js**, **Laravel**, **REST APIs**, and **MySQL**
 - 🤝 Love collaborating on **open-source** projects that make a real impact
 - 💬 Ask me about **frontend architecture**, **component design**, or **UI/UX decisions**
-- 🌍 Based in **Benin City, Nigeria** — working globally
+- 🌍 Based in **Asaba, Delta State, Nigeria** — working globally
 
 ---
 
@@ -72,6 +72,7 @@ I'm a frontend developer who obsesses over clean UI, smooth interactions, and ac
 | Project | Description | Stack | Status |
 |---|---|---|---|
 | 🛠 **Portfolio v3** | Redesigned personal portfolio with project case studies, blog & live demos | Nuxt.js, TailwindCSS, TypeScript | 🟢 In progress |
+| 🌐 **Community App** | Platform connecting local communities in Nigeria — resources, events & opportunities | Vue.js, Node.js, Laravel | 🟡 Planning |
 
 ---
 
