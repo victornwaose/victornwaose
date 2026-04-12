@@ -5,7 +5,7 @@
 
 <p align="left">
   <b>Frontend Developer</b> growing into Full-Stack •
-  Crafting user-first web apps from Benin City, Nigeria 🇳🇬
+  Crafting user-first web apps from Asaba, Detla State , Nigeria 🇳🇬
 </p>
 
 <p align="left">
@@ -72,7 +72,6 @@ I'm a frontend developer who obsesses over clean UI, smooth interactions, and ac
 | Project | Description | Stack | Status |
 |---|---|---|---|
 | 🛠 **Portfolio v3** | Redesigned personal portfolio with project case studies, blog & live demos | Nuxt.js, TailwindCSS, TypeScript | 🟢 In progress |
-| 🌐 **Community App** | Platform connecting local communities in Nigeria — resources, events & opportunities | Vue.js, Node.js, Laravel | 🟡 Planning |
 
 ---
 
