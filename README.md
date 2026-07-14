@@ -71,56 +71,6 @@ I sit at the intersection of engineering and design — I take products from Fig
 
 ---
 
-### 🏆 Selected Work
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>💳 Hizo</h3>
-      <p>Payments product with live native apps serving real customers. Built and maintained core product interfaces, focusing on reliable payment flows on real-world Nigerian network conditions.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      </p>
-      <a href="YOUR_LINK_HERE">View →</a>
-    </td>
-    <td width="50%">
-      <h3>🌐 Promade Rebuild</h3>
-      <p>Complete rebuild of the website for a digital products & marketing agency operating across Canada and Nigeria — from design research through production deployment.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
-      </p>
-      <a href="https://promade.com.co">View →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>📢 PennyMarket & PennyAds</h3>
-      <p>E-commerce and advertising platform work delivered under contract — frontend architecture, component systems, and rich media ad experiences.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      </p>
-      <a href="YOUR_LINK_HERE">View →</a>
-    </td>
-    <td width="50%">
-      <h3>🧩 Cover Flow 3D Carousel</h3>
-      <p>An iterative deep-dive into 3D perspective UI — a Cover Flow–style carousel built through successive design evolutions with Framer Motion.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
-      </p>
-      <a href="YOUR_LINK_HERE">View →</a>
-    </td>
-  </tr>
-</table>
-
-> 🔗 Full case studies at my portfolio → <a href="https://victor-nwaose-portfolio.netlify.app">victor-nwaose-portfolio.netlify.app</a>
-
----
-
 ### 💡 How I Work
 
 | Principle | In practice |
